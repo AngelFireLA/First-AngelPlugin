@@ -1,0 +1,8 @@
+name: AngelPlugin
+version: 1.0
+author: Angel
+main: fr.angel.angelplugin.Main
+commands:
+  menu:
+    description: Ouvre menu des server
+    permission: ap.menu
